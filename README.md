@@ -1,4 +1,4 @@
-# Brain Tumor Detection
+# Brain Tumor Detection Using Machine Learning
 
 This repository contains code for detecting brain tumors using various machine learning models. The project aims to accurately classify brain images into tumor and non-tumor categories using machine learning algorithms.
 
